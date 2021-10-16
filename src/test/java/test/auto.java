@@ -3,7 +3,6 @@ public class Auto {
 
     int precio;
     int registro;
-
     String modelo;
     String marca;
     Motor motor;
